@@ -14,5 +14,4 @@ function routersApi(app) {
   router.use('/users', usersRouter);
 }
 
-
 module.exports = routersApi;
